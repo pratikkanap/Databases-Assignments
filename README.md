@@ -1,6 +1,6 @@
 💾 SQL Assignments - This repository contains all the Structured Query Language (SQL) assignments completed as part of the Database Technologies module during the C-DAC Post Graduate Diploma in [PG-DAC].
 
-🚀 Project GoalTo gain hands-on proficiency in core database management concepts and SQL operations, including Data Definition, Data Manipulation, Data Control, and advanced querying techniques.
+🚀 Project Goal : To gain hands-on proficiency in core database management concepts and SQL operations, including Data Definition, Data Manipulation, Data Control, and advanced querying techniques.
 
 🛠️ Technology StackDatabase Management System (DBMS): [e.g., MySQL Workbench, Oracle SQL Developer, PostgreSQL].
 
